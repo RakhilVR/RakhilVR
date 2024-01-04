@@ -31,10 +31,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=git,react,html,css" />
+<a><img src="https://skillicons.dev/icons?i=git,react,html,css,bootstrap" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i=postman,bootstrap" />
+<a><img src="https://skillicons.dev/icons?i=postman" />
 <a/>
 
     
