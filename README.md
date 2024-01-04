@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/RakhilVR/RakhilVR/blob/master/code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:r4khil.vr@gmail.com) :)
+- 💼 any freelance work? do reach, [email]:r4khil.vr@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
